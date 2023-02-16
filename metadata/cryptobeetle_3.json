@@ -1,0 +1,27 @@
+{
+    "name":"Crypto Beetle 3", 
+    "description":"Crypto Beetle",
+    "image":"https://ipfs.io/ipfs/QmcKTKAK82mYGiNQuRkyqcXiiF3s1DNc183wjnmw2wfAy4",
+    "attributes":[
+        {
+        "traint_type":"Generation",
+        "value":1
+        },
+        {
+            "traint_type":"Dots",
+            "value":4
+        },
+        {
+            "traint_type":"Antenna",
+            "value":"large"
+        },
+        {
+            "traint_type":"Background",
+            "value":"clouds"
+        },
+        {
+            "traint_type":"Sunglasses",
+            "value":true
+        }
+    ]
+}
